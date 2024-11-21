@@ -1,3 +1,7 @@
-site_name: My Docs
+site_name: "Monolith to Event-Driven System: A Pratical Guide"
 theme:
   name: material
+
+nav:
+  - Cover Art: cover_art.md
+  - 'Getting Started': getting_started.md
