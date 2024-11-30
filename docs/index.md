@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+Taipei 101 Tower, Taiwan
+![Taipei 101 Tower, Taiwan](images/louis-cheng-z6Qo89tJhWM-unsplash.jpg "Taipei 101 Tower, Taiwan")
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Photo by <a target="_blank" href="https://unsplash.com/@louis_cheng?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Louis Cheng</a> on <a target="_blank" href="https://unsplash.com/photos/high-angle-photography-of-city-lights-and-high-rise-buildings-during-nighttime-z6Qo89tJhWM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      

@@ -1,1 +1,0 @@
-![Grand Central Station, New York City, United States](images/nic-y-c-10756wPwS5A-unsplash.jpg "Grand Central Station, New York City, United States")

@@ -1,7 +1,19 @@
 site_name: "Monolith to Event-Driven Architecture: A Pratical Guide"
 theme:
   name: material
+  custom_dir: overrides
+  features:
+    - content.code.copy
+    - navigation.instant
+    - navigation.tracking
+    - announce.dismiss
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
-  - Cover Art: cover_art.md
+  - Cover Art: index.md
   - 'Getting Started': getting_started.md
+  - 'Our Goal': goal.md

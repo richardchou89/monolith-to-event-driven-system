@@ -8,12 +8,11 @@ An event-driven architecture consists of several components:
 
 There are some design patterns for event-driven architecture:
 
-### SNS + SQS
-
-![SNS + SQS](images/Fig3-fanout.png "SNS + SQS")
-
 ### EventBridge + EventBridge Rules
 
 ![EventBridge](images/Fig4-event-bus.png "EventBridge")
 
-In this guide, I'm going to demonstrate how to build SNS + SQS using Terraform and AWS Sam.
+### SNS + SQS
+
+![SNS + SQS](images/Fig3-fanout.png "SNS + SQS")
+
