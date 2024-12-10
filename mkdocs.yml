@@ -12,7 +12,10 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
+extra:
+  analytics:
+    provider: google
+    property: G-S9M1J6BX7L
 nav:
   - Cover Art: index.md
   - 'Getting Started': getting_started.md
