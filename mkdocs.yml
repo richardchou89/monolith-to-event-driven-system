@@ -1,7 +1,7 @@
 site_name: "Monolith to Event-Driven Architecture: A Pratical Guide"
 theme:
   name: material
-  custom_dir: overrides
+  #custom_dir: overrides
   features:
     - content.code.copy
     - navigation.instant
@@ -17,3 +17,4 @@ nav:
   - Cover Art: index.md
   - 'Getting Started': getting_started.md
   - 'Our Goal': goal.md
+  - 'Benefits': benefits.md
