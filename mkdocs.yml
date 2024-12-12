@@ -1,7 +1,7 @@
-site_name: "Monolith to Event-Driven Architecture: A Pratical Guide"
+site_name: "Monolith to Event-Driven Architecture"
 theme:
   name: material
-  #custom_dir: overrides
+  custom_dir: overrides
   features:
     - content.code.copy
     - navigation.instant
@@ -21,3 +21,4 @@ nav:
   - 'Getting Started': getting_started.md
   - 'Our Goal': goal.md
   - 'Benefits': benefits.md
+  - About the author: author.md
