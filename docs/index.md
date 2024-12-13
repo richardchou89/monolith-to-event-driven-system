@@ -1,5 +1,18 @@
-Taipei 101, Taiwan
-![Taipei 101, Taiwan](images/louis-cheng-z6Qo89tJhWM-unsplash.jpg "Taipei 101, Taiwan")
+An event-driven architecture consists of several components:
 
-Photo by <a target="_blank" href="https://unsplash.com/@louis_cheng?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Louis Cheng</a> on <a target="_blank" href="https://unsplash.com/photos/high-angle-photography-of-city-lights-and-high-rise-buildings-during-nighttime-z6Qo89tJhWM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-      
+1. Producer: for producing events.
+2. Message Broker: a component between producer and consumer. It is used to receive and distribute events to different consumers. The advantage of using a broker is that components are decoupled, and events can be processed asynchronously.
+3. Consumer: for receiving and processing events.
+
+![A basic illustration of event-driven architecture](images/Fig1-components.png "A basic illustration of event-driven architecture")
+
+There are some design patterns for event-driven architecture:
+
+### EventBridge + EventBridge Rules
+
+![EventBridge](images/Fig4-event-bus.png "EventBridge")
+
+### SNS + SQS
+
+![SNS + SQS](images/Fig3-fanout.png "SNS + SQS")
+
